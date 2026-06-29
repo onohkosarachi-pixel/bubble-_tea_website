@@ -1,0 +1,17 @@
+body{
+font-family: Arial, sans-serif;
+background:#fff5fb;
+}
+
+h1,h2{
+color:#7b2cbf;
+}
+
+button{
+cursor:pointer;
+}
+
+.card:hover{
+transform:scale(1.05);
+transition:0.3s;
+}
